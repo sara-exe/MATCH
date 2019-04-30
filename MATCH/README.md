@@ -2,15 +2,6 @@
 
 MATCH is a friend-matching platform that uses user geolocation data, personal hobbies, and various other preferences to match users with new friends near their area.
 
-## Team Members:
-Ivan Chowdhury
-
-Min JO
-
-Sara Huang
-
-Hanoch Goldfarb
-
 ## Tech Stack
 Frontend: HTML/CSS/Javascript
 
