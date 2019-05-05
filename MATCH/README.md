@@ -11,8 +11,7 @@ Server: Java, Spark, JDBC
 
 Database: MySQL
 
-![logo](https://cdn.pixabay.com/photo/2017/09/02/04/35/fire-2706299_960_720.jpg)
-
+APIs used: HTML5 Geolocation API, JDBC API (java.sql)
 
 ## Instuctions to set up locally
 
@@ -30,14 +29,14 @@ This should all be pretty intuitive, but in case you can't figure it out here ar
 
 **Logging in** From the homepage select `Log in`. Enter out the username and password and hit `Log in`. Note that registering an ccount will automatically log you in.
 
-**Viewing your freind list** After logging in you'll see you list of freinds. (Unless you don't have any 😢.)
+**Viewing your friend list** After logging in you'll see you list of freinds. (Unless you don't have any 😢.)
 
-**Viewing a freind's profile** Clicking on a name in your list of freinds will show you their profile.
+**Viewing a friend's profile** Clicking on a name in your list of freinds will show you their profile.
 
 **Viewing your own profile** Clicking on `View profile` in the top left corner will show you your own profile.
 
 **Uploading a photo** After logging in, click `choose file`, select a file, and then click `Upload Photo`. The picture will be visible on your profile page.
 
-**Rejecting a match** When a viewing a freind's profile, select `Reject`. They will no longer appear on your list of freinds and you will no longer appear on theirs.
+**Rejecting a match** When a viewing a friend's profile, select `Reject`. They will no longer appear on your list of freinds and you will no longer appear on theirs.
 
-**Messaging a friend** When a viewing a freind's profile, type in the textbox and click `Send Message`. Previously sent messages will also be shown on the page.
+**Messaging a friend** When a viewing a friend's profile, type in the textbox and click `Send Message`. Previously sent messages will also be shown on the page.
