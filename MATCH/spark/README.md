@@ -27,7 +27,7 @@ Testing
 
 1. Since you haven't logged in, it should redirect you to the sign in page.
 
-2. Click login and try using bad or blank credentials. It should dsplay a warning to user.
+2. Click login and try using bad or blank credentials. It should display a warning to user.
 
 3. Try logging in as a test user. e.g. "test1", pass: "sarahuang" This will take you back to the root directory, but now that you have a valid cookie the server will recognize you're signed in and redirect to your list of friends. (Sara Huang has two)
 
@@ -37,7 +37,12 @@ Testing
 
 6. Log out, the cookie will be removed from the server's list and it will no longer recognize you, so it should redirect you to the sign in page again.
 
-7. Click register and try a)leaving fields blank b)using an already existing username (e.g. test1), c)entering a non-number in max distance, d)not clicking Get Location e)clicking Get Location
+7. Click register and try:
+a) leaving fields blank 
+b) using an already existing username (e.g. test1)
+c) entering a non-number in max distance
+d) not clicking 'Get Location' 
+e) clicking 'Get Location'
 
 8. Make a new account and log in with it.
 
