@@ -29,9 +29,9 @@ Testing
 
 2. Click login and try using bad or blank credentials. It should dsplay a warning to user.
 
-3. Try logging in as a test user. e.g. "test1", pass: "jamessmith" This will take you back to the root directory, but now that you have a valid cookie the server will recognize you're signed in and redirect to your list of freinds. (James Smith has two)
+3. Try logging in as a test user. e.g. "test1", pass: "sarahuang" This will take you back to the root directory, but now that you have a valid cookie the server will recognize you're signed in and redirect to your list of friends. (Sara Huang has two)
 
-4. Try clicking on the friends profiles, and on James's own profile
+4. Try clicking on the friends profiles, and on Sara's own profile
 
 5. Try uploading an image.
 
@@ -41,6 +41,3 @@ Testing
 
 8. Make a new account and log in with it.
 
-What's left to implement
--
- The main things that still need to be implemented are: concurrent user requests, and unittests
